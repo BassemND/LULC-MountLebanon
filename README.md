@@ -35,7 +35,6 @@ The study compares CORINE visual interpretation and supervised classification to
 - Agricultural and forest areas slightly decreased
 - Notable variation between CORINE and supervised results
 
-![Sample Map](Final_Maps/lulc_2022_map.jpg)
 
 ---
 
